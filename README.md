@@ -8,10 +8,10 @@ This repository contains practical implementations of non-relational database ma
 
 ## 👨‍💻 Author Profile
 
-*   **👤 Name:** Babin Bid
-*   **🔗 LinkedIn:** [Babin Bid](https://www.linkedin.com/in/babinbid123/)
-*   **🐙 GitHub:** [@KGFCH2](https://github.com/KGFCH2)
-*   **🏫 University:** Adamas University
+* **👤 Name:** Babin Bid
+* **🔗 LinkedIn:** [Babin Bid](https://www.linkedin.com/in/babinbid123/)
+* **🐙 GitHub:** [@KGFCH2](https://github.com/KGFCH2)
+* **🏫 University:** Adamas University
 
 ---
 
@@ -23,26 +23,26 @@ The lab work is divided into two primary technology tracks. You can explore the 
 
 *Focuses on MongoDB Shell operations, schema-less data structures, and JavaScript automation.*
 
-*   📦 **Database:** Database & Collection Lifecycle management.
-*   📑 **Arrays:** Complex Array operations and document CRUD.
-*   🌐 **Networking:** REST API Ingestion and JSON parsing.
-*   👁️ **Watchers:** Real-time Change Watchers for automated ingestion.
+* 📦 **Database:** Database & Collection Lifecycle management.
+* 📑 **Arrays:** Complex Array operations and document CRUD.
+* 🌐 **Networking:** REST API Ingestion and JSON parsing.
+* 👁️ **Watchers:** Real-time Change Watchers for automated ingestion.
 
 ### 🎡 [Kafka Module](./Kafka/README.md)
 
 *Focuses on high-performance event streaming and message queuing.*
 
-*   🛤️ **Topics:** Topic Management and configuration.
-*   🔄 **Streams:** Producer-Consumer architecture implementation.
-*   🏗️ **Pipelines:** Building distributed data pipelines.
+* 🛤️ **Topics:** Topic Management and configuration.
+* 🔄 **Streams:** Producer-Consumer architecture implementation.
+* 🏗️ **Pipelines:** Building distributed data pipelines.
 
 ---
 
 ## 🚀 Environment Setup
 
-1.  🍃 **MongoDB**: MongoDB Community Server & Mongosh.
-2.  🎡 **Kafka**: Apache Kafka 3.x with Java 11+.
-3.  ⚡ **Engine**: Node.js (for advanced scripts / fetch API in Mongosh).
+1. 🍃 **MongoDB**: MongoDB Community Server & Mongosh.
+2. 🎡 **Kafka**: Apache Kafka 3.x with Java 11+.
+3. ⚡ **Engine**: Node.js (for advanced scripts / fetch API in Mongosh).
 
 ---
 
