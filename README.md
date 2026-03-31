@@ -17,7 +17,7 @@ This repository contains practical implementations of non-relational database ma
 
 ## 📚 Lab Modules
 
-The lab work is divided into two primary technology tracks. You can explore the detailed questions, code solutions, and verification steps in their respective folders below:
+The lab work is divided into three primary technology tracks. You can explore the detailed questions, code solutions, and verification steps in their respective folders below:
 
 ### 🍃 [Mongosh Module](./Mongosh/README.md)
 
@@ -36,6 +36,12 @@ The lab work is divided into two primary technology tracks. You can explore the 
 * 🔄 **Streams:** Producer-Consumer architecture implementation.
 * 🏗️ **Pipelines:** Building distributed data pipelines.
 
+### 🕸️ [Neo4j Module](./Neo4j/README.md)
+
+*Focuses on graph database operations, nodes, relationships, and Cypher queries.*
+
+* 📘 **Experiment:** Neo4j CRUD Operations
+
 ---
 
 ## 🚀 Environment Setup
@@ -43,6 +49,7 @@ The lab work is divided into two primary technology tracks. You can explore the 
 1. 🍃 **MongoDB**: MongoDB Community Server & Mongosh.
 2. 🎡 **Kafka**: Apache Kafka 3.x with Java 11+.
 3. ⚡ **Engine**: Node.js (for advanced scripts / fetch API in Mongosh).
+4. 🕸️ **Neo4j**: Neo4j Desktop or Browser.
 
 ---
 
