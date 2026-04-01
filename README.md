@@ -15,11 +15,11 @@ This repository contains practical implementations of non-relational database ma
 
 ---
 
-## 📚 Lab Modules
+## 📚 Lab Schedule
 
-The lab work is divided into three primary technology tracks. You can explore the detailed questions, code solutions, and verification steps in their respective folders below:
+The lab work is organized by days, with each day focusing on specific database technologies and concepts. Navigate through the daily sessions below:
 
-### 🍃 [Mongosh Module](./Mongosh/README.md)
+### 📅 [Day 1 & 2: MongoDB Fundamentals](./Day_1_&_2/Mongosh/README.md)
 
 *Focuses on MongoDB Shell operations, schema-less data structures, and JavaScript automation.*
 
@@ -28,7 +28,7 @@ The lab work is divided into three primary technology tracks. You can explore th
 * 🌐 **Networking:** REST API Ingestion and JSON parsing.
 * 👁️ **Watchers:** Real-time Change Watchers for automated ingestion.
 
-### 🎡 [Kafka Module](./Kafka/README.md)
+### 📅 [Day 3: Apache Kafka Streaming](./Day_3/Kafka/README.md)
 
 *Focuses on high-performance event streaming and message queuing.*
 
@@ -36,11 +36,15 @@ The lab work is divided into three primary technology tracks. You can explore th
 * 🔄 **Streams:** Producer-Consumer architecture implementation.
 * 🏗️ **Pipelines:** Building distributed data pipelines.
 
-### 🕸️ [Neo4j Module](./Neo4j/README.md)
+### 📅 [Day 4: Neo4j Graph Database](./Day_4/Neo4j/README.md)
 
 *Focuses on graph database operations, nodes, relationships, and Cypher queries.*
 
 * 📘 **Experiment:** Neo4j CRUD Operations
+
+### 📅 [Day 5: Advanced Topics](./Day_5/README.md)
+
+*Focuses on advanced MongoDB features including capped collections and comprehensive indexing strategies.*
 
 ---
 
